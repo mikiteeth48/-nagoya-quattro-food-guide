@@ -3,7 +3,7 @@
 GitHub Pages向けの静的Webページです。営業時間は土日祝基準で、店舗データは `shops.js` にあります。
 
 ## 公開方法
-1. この `index.html` をGitHubリポジトリのルートに置く
+1. このディレクトリ全体を新しいGitHubリポジトリのルートに置く（`index.html` 単独では動作しません）
 2. GitHub → Settings → Pages
 3. Source: Deploy from a branch
 4. Branch: `main` / `/ (root)`
