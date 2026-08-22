@@ -1,0 +1,8 @@
+{
+  "name": "nagoya-quattro-food-guide",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
